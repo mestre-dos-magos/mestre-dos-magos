@@ -1,5 +1,5 @@
-![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Blog](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<p align='Left'> Hello! Feel Welcome aventurer! 🧙 </p>
+![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Blog](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
+<p align='Left'> Hello! Feel Welcome adventurer! 🧙 </p>
 <p align='Left'>My Cave is always open for all 🔭📐🥼 </p>
 
 ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Blog](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![Blog](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
