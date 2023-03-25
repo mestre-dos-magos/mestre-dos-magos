@@ -14,9 +14,9 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: {{your_username}}
+          github_user_name: {{mestre-dos-magos}}
           svg_out_path: dist/github-contribution-grid-snake.svg
-
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
