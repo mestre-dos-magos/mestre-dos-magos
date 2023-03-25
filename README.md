@@ -6,3 +6,5 @@
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mestre-dos-magos&show_icons=true&theme=dark&hide_title=true)
 
 ![Alt Text](https://media.tenor.com/NPJgF7_j7RAAAAAC/dungeons-and-dragons-dungeon-master.gif)
+
+![snake gif](https://github.com/mestre-dos-magos/mestre-dos-magos/blob/output/github-contribution-grid-snake.svg)
